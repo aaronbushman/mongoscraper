@@ -1,1 +1,1 @@
-# mongoscraper
+# newsscraper
